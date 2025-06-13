@@ -1,6 +1,6 @@
 # 🎅 Santa Claus Needs You!
 
-Projet universitaire réalisé dans le cadre de la SAE 1.01 (année 2023-2024), dont l’objectif est de concevoir un algorithme d’optimisation de tournée pour le Père Noël. Le but est de minimiser la distance parcourue par les rennes grâce à différentes fonctions et stratégies de parcours.
+Projet universitaire réalisé dans le cadre de la SAE 1.01 (année 2023-2024), dont l’objectif est de concevoir un algorithme d’optimisation de tournée pour le Père Noël. Le but est de minimiser la distance parcourue par les rennes grâce à différentes fonctions et stratégies de parcours. Ce projet est en partie une introduction à la Théorie des Graphes en mathématiques.
 
 ---
 
