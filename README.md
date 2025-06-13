@@ -8,7 +8,7 @@ Projet universitaire réalisé dans le cadre de la SAE 1.01 (année 2023-2024), 
 
 - `SAE python.ipynb` : cahier de développement principal avec les fonctions codées et documentées.
 - `test_santa_claus.py` : fichier de **tests unitaires** assurant la robustesse des fonctions.
-- `using_santa_claus.ipynb` : démonstration interactive de l’utilisation des fonctions.
+- `using_santa_claus.ipynb` : fichier d'analyse de complexité des fonctions.
 - `villes.csv` : fichier CSV contenant les noms, longitudes et latitudes des villes à visiter.
 
 ---
