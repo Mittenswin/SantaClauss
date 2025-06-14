@@ -23,6 +23,7 @@ Cette SAE vise à vous apprendre à :
 - ✅ Travailler efficacement en **binôme**, tout en maîtrisant l’ensemble du code.
 
 ---
+![image](https://github.com/user-attachments/assets/5d268e67-4e05-4cf4-9418-9bab0819f80e)
 
 ## 🧠 Sujet
 
